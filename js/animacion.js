@@ -1,2 +1,3 @@
-// edward sabtamnria 
-let nombre ="edward"
+//edward santantisa benei
+let nombre="edward";
+let aoellido="snarmaam";
